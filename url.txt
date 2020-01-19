@@ -1,0 +1,40 @@
+https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2
+
+Recommender Systems:
+-------------------------
+https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0
+
+https://cambridgespark.com/recommender-systems-in-python/
+
+https://www.ethanrosenthal.com/2015/11/02/intro-to-collaborative-filtering/
+
+https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26
+
+------------------------------------------------------------------------------------------------------
+
+Gradient Descent Blog Post Resource
+-----------------------------------
+https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e
+https://en.wikipedia.org/wiki/Gradient_descent
+https://towardsdatascience.com/gradient-descent-demystified-bc30b26e432a
+https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
+https://ruder.io/optimizing-gradient-descent/index.html#conclusion
+https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/
+https://www.geeksforgeeks.org/gradient-descent-algorithm-and-its-variants/
+
+----------------------------------------------------------------------------------------------------
+
+Hackathon Business Forecasting Competition
+--------------------------------------------------
+https://www.kaggle.com/sumi25/understand-arima-and-tune-p-d-q
+https://machinelearningmastery.com/grid-search-arima-hyperparameters-with-python/
+https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+https://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/
+https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
+https://mapr.com/blog/deep-learning-tensorflow/
+https://www.researchoptimus.com/article/what-is-time-series-analysis.php
+https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/
+https://www.kaggle.com/debu3kaggle/time-series-forecasting-with-prophet/edit
+https://github.com/PacktPublishing/Practical-Time-Series-Analysis
+https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
+http://barnesanalytics.com/basics-of-arima-models-with-statsmodels-in-python
